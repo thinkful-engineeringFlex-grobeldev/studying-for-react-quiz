@@ -4,9 +4,7 @@
 
 From thinkful:
 
-```
 In this lesson we will look at two specific testing scenarios, first, let us write a test that simply ensures that the component renders in the first place. These tests, while simple, are very useful especially as your component hierarchy grows. Suppose that some deeply nested component breaks the code? This type of test is known as a smoke test. The second type of testing we will look at here is also fairly simple to implement but provides a useful benefit. This is called snapshot testing. Snapshot testing compares the UI to a saved version of the UI and informs you if the UI changes at all. If you did not intend to update the UI at all this might indicate that something is wrong.
-```
 
 ```
 // make React available
