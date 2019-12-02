@@ -1,6 +1,6 @@
 # Questions
 
-### 1. What are smoke tests?
+#### 1. What are smoke tests?
 
 ### 2. What does the exact prop of the Route component do?
 
